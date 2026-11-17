@@ -1,16 +1,21 @@
-## Hi there 👋
+# Rafael Salazar
 
-<!--
-**Rafse7en/Rafse7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & CEO, CyberSage Technologies** · Los Angeles, CA
 
-Here are some ideas to get you started:
+I build serious software and ship it. At CyberSage Technologies our flagship work is **SovereigNVRAM**, a universal firmware abstraction platform. I am also a musician: I founded the metalcore band **Loaded Guns** in 2011, signed to Century Media Records (Sony Music) in 2016, and relaunched the band in 2026 on CyberTank Records.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+- **[Postmaster](https://github.com/Rafse7en/postmaster)** — a local mastering studio: a dependency-free Python server driving FFmpeg. Loudness targeting, EQ, dynamics, and true-peak delivery exports in WAV, FLAC, MP3, AAC, and Opus. Your audio never leaves your machine.
+- **[Chameleon](https://github.com/Rafse7en/chameleon)** — CyberSage computer-vision research: an adaptive vision engine and its defensive counterpart, published as an experimental tool with its limits stated up front.
+
+## Principles
+
+- Working software over demos. If it is published here, it runs.
+- Honest scope. What a tool does not do is written down next to what it does.
+
+## Elsewhere
+
+- Instagram: [@rafse7en](https://instagram.com/rafse7en)
+- Music: [@loadedgunsofficial](https://instagram.com/loadedgunsofficial)
+- Contact: [tinyurl.com/CyberSalazar](https://tinyurl.com/CyberSalazar)
