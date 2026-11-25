@@ -6,7 +6,6 @@ I build serious software and ship it. At CyberSage Technologies our flagship wor
 
 ## Featured projects
 
-- **[Postmaster](https://github.com/Rafse7en/postmaster)** — a local mastering studio: a dependency-free Python server driving FFmpeg. Loudness targeting, EQ, dynamics, and true-peak delivery exports in WAV, FLAC, MP3, AAC, and Opus. Your audio never leaves your machine.
 - **[Chameleon](https://github.com/Rafse7en/chameleon)** — CyberSage computer-vision research: an adaptive vision engine and its defensive counterpart, published as an experimental tool with its limits stated up front.
 
 ## Principles
